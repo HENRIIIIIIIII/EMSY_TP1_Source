@@ -59,7 +59,7 @@ Utilisez la commande suivante : `id`
 
 Que comprenez-vous de informations obtenues par rapport à un utilisateur
 
-#LUCA here
+# LUCA here
 
 ## H. Testez si l’application « nano » est installée sur votre machine, tapez la commande : 
 `nano --version`

@@ -7,7 +7,8 @@
 	environnement virtue
 	Nome: Luca Ferreiro + Henri Mott
 	Date: 08.11.2024
-	
+	//ex - [Commandes Utilisées](#commandes-utilisées)
+	//ex- [Sources Utilisées](#sources-utilisées)
 ## A. Quelle est la taille minimum recommandée pour installer la distribution Sparky
 
 - 1GB of RAM

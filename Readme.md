@@ -1,6 +1,4 @@
 # EMSY - TP1 - 2024 - 2025
-## Infos Pratique - Bonne pratique git
-
 	```
 	TP1 :
 	Installation d’un OS Linux dans un 
@@ -11,7 +9,7 @@
 	//ex- [Sources Utilisées](#sources-utilisées)
 ## A. Quelle est la taille minimum recommandée pour installer la distribution Sparky
 
-- 1GB of RAM
+la taille minimum est 1GB de RAM
 
 ## B. Après l’installation des vos partitions linux, prenez une capture d’écran du démarrage 
 de votre système (GRUB)	

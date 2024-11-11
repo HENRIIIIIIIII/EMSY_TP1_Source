@@ -32,7 +32,7 @@ mise jour du clavier.
 	sudo loadkeys fr_CH
 > [!WARNING]
 > si le système redémarre alors le clavier ce reset par défaut.
-- Pour changer le keyboard dans les settings il faut suivre les marches précédentes
+- Pour que le clavier sauvegarde définitivement ce paramètre:
 
 	- ouvrire le fichier config clavier: `	sudo nano /etc/default/keyboard`
    

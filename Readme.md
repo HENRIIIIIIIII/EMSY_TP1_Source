@@ -13,7 +13,7 @@ la taille minimum est 1GB de RAM
 ## B. Après l’installation des vos partitions linux, prenez une capture d’écran du démarrage 
 de votre système (GRUB)	
 
--- //Image
+-- //Image: GRUB en anex
 
 ## C. Que remarquez-vous au niveau du clavier ? Trouvez-la ou les lignes de commandes 
 permettant de changer le clavier (clavier Français – Suisse : QWERTZ) et procédez à la 

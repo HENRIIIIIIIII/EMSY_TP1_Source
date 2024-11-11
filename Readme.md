@@ -55,9 +55,17 @@ Rien
 ## G. Dans l’installation, on vous demande deux noms d’utilisateur, à quoi correspondent-ils ? 
 Utilisez la commande suivante : `id`
 
-Que comprenez-vous de informations obtenues par rapport à un utilisateur
+'id' identifications du système -> 100(users)
 
-# LUCA here
+"lf-hm" est le mon de notre machine
+"user" est le nom de l'utilisateur
+
+Que comprenez-vous de informations obtenues par rapport à un utilisateur?
+
+- Nom d'utilisateur et ID utilisateur réel `uid` = 1000 (lf-hm) 
+- Nom du groupe de l'utilisateur et de l'ID de groupe réel gid = 1000 (lf-hm)
+- Nom des groupes de l'utilisateur et de l'ID de groupe supplémentaire de l'utilisateur.
+
 
 ## H. Testez si l’application « nano » est installée sur votre machine, tapez la commande : 
 `nano --version`

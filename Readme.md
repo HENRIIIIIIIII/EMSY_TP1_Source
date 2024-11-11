@@ -115,7 +115,7 @@ pour savoir si "nano" est bien installer il suffit de retapper la commande du po
 
 crée le répertoire: `	sudo mkdir /home/EMSY_LFO_HMT`
 
-accorder les droits: `	sudo chown lf-hm:lf-hm EMSY_LFO_HMT`
+accorder les droits: `	sudo chown lf-hm:lf-hm EMSY_TP1_LFO_HMT`
 
 
 ## L. Dans ce répertoire, tapez la commande :
